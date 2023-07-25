@@ -1,5 +1,4 @@
-Oi meu nome é Leticia Gonçalves dos Santos ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) 
- ✉️ Você pode entrar em contato comigo em [l](mailto:le) [leticiagoncalvesdossantos1973@gmail.com](mailto:leticiagoncalvesdossantos1973@gmail.com)
+Oi meu nome é L. ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)  ✉️ Você pode entrar em contato comigo em [l](mailto:le) [leticiagoncalvesdossantos1973@gmail.com](mailto:leticiagoncalvesdossantos1973@gmail.com)
 
 ### Habilidades
 
@@ -23,3 +22,4 @@ com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" 
 <b>Minhas estatísticas do GitHub</b>
 
 <a href="http://www.github.com/"><img src="https://github-readme-stats.vercel.app/api?username=&show_icons=true&hide=stars,commits,prs,issues,contribs&title_color=ffffff&text_color=64748b&icon_color=0f172a&bg_color=181824&hide_border=true&show_icons=true" alt="'s GitHub stats" /></a>
+
