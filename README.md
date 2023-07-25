@@ -1,4 +1,4 @@
-Oi 👋 Meu nome é Letícia Gonçalves dos Santos ============================================= * 🧠 estou aprendendo j
+Oi 👋 Meu nome é Letícia Gonçalves dos Santos 🧠 estou aprendendo
 
 ### Habilidades
 
